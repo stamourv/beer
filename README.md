@@ -17,6 +17,19 @@ All recipes were brewed all-grain, brew-in-a-bag.
 Recipes either yield 2 gallons (pre-mid-2015) or 3ish (mid-2015 on).
 A few recipes may have lower yields due to higher gravity, or to
 mistakes on our part at some point in the process.
+Most of the recipes were obtained by taking a 5-gallon recipe and
+halving everything.
+
+Our usual SOP is:
+* 3 gallons of mash water, with some gypsum to compensate for Chicago's
+  hard water (warning: cargo cult)
+* 1 gallon of sparge water, dip sparge at 170-180F for 15 mins
+* a pinch of irish moss at 10 before flameout
+* 1/3 cup priming sugar dissolved in hot water, mixed in fermenter, for
+  bottling
+
+It took us some time to converge on that, though, so some earlier
+batches may have been brewed differently.
 
 ## Historical Notes (of limited interest to anyone but me)
 
