@@ -7,6 +7,11 @@ Some of those I got from the web, or from someone else, and some we
 created from whole cloth. I tried to add proper attribution wherever
 possible.
 
+This repo is cobbled from scattered notes taken by me and others, with
+varying levels of detail. I tried to fill in more details from memory,
+with the mixed results one may expect. As a result, holes, gaps, and
+omissions galore.
+
 Thanks to @jrslepak, @dotpyfe, and @khale for their help brewing,
 finding, creating, and refining these recipes.
 
