@@ -10,6 +10,18 @@ possible.
 Thanks to @jrslepak, @dotpyfe, and @khale for their help brewing,
 finding, creating, and refining these recipes.
 
+## Repo Structure
+
+* `mainstays`: Recipes that we made at least a few times, and that
+  turned out well enough to keep doing them. If we want to brew
+  and don't have anything particular in mind, we reach for one of these.
+* `nursery`: Recipes that we made maybe once or twice, that we still
+  need to fine tune, or gather data on before deciding on their ultimate
+  fate.
+* `graveyard`: Recipes that did not work out. Either the recipe itself
+  was a bad idea, or we did not manage to pull it off, or something else
+  happened. Regardless, revisiting them is not on the agenda.
+
 ## General Info
 
 All recipes were brewed all-grain, brew-in-a-bag.
