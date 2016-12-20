@@ -22,7 +22,7 @@ One of our best. Each batch ends up different, but always great.
 
 ### Unknown date, pre-mid-2015
 * For reasons lost to time, we ended up mashing: 4.355lb maris otter,
-  0.240lb crystal 30, 0.120 special roast. Don't ask me why.
+  0.240lb crystal 30, 0.120lb special roast. Don't ask me why.
 * Also for reasons long since forgotten (not enough mash water? too
   strong/long boil?), we had a yield of maybe 1 gallon, or not much more.
   OG must have been pretty high (that was pre-hydrometer-purchase), but
