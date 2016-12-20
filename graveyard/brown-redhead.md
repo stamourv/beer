@@ -19,6 +19,6 @@ Not as good as the Red Floyd. A bit less hoppy, though. Color is more on
 the brown side, too.
 
 ### Sep 12th, Red
-# OG 1.046
-# FG 1.026
+* OG 1.046
+* FG 1.026
 * Had the last (non-skull+crossbones) one on May 1st. Aged nicely.
