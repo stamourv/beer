@@ -37,3 +37,16 @@ In progress.
   boiled off too much). Or maybe should have backfilled with water.
 * Will the yeast be able to work through that? May want to give it 3-4
   weeks...
+* Pierre-Michel explained the "reduction" bit of the original recipe.
+  The point is to set aside 1gal, and boil *that* off. That would
+  increase the gravity beyond the target (for that 1gal), and raise the
+  boiling point (increased sugar concentration), which would allow the
+  liquid to reach higher than 212F, and caramelize the sugar, which has
+  an effect on taste. Merging that 1gal back in also raises gravity.
+* FG 1.055 (!)
+* ABV 7.61%
+* Bottled after 4 weeks. Still had a bit of kreuzen on top, so hopefully
+  yeast will be able to carbonate a bit. Too high FG could be a worry
+  for overpressurization, though...
+  added ~1/6 cup priming sugar anyway
+* yield: 13 bottles
