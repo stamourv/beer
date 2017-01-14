@@ -44,7 +44,7 @@ In progress.
   liquid to reach higher than 212F, and caramelize the sugar, which has
   an effect on taste. Merging that 1gal back in also raises gravity.
 * FG 1.055 (!)
-* ABV 7.61%
+* ABV 8.86%
 * Bottled after 4 weeks. Still had a bit of kreuzen on top, so hopefully
   yeast will be able to carbonate a bit. Too high FG could be a worry
   for overpressurization, though...
