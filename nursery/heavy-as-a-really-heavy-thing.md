@@ -50,3 +50,7 @@ In progress.
   for overpressurization, though...
   added ~1/6 cup priming sugar anyway
 * yield: 13 bottles
+* This beer is a beast. Strong, heavy, syrupy. A bit overwhelming, even.
+  So, just what we were shooting for.
+* After 2 weeks, yeast did manage to carbonate a bit, but not much.
+  Probably ok for the style.
