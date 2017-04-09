@@ -42,3 +42,8 @@ like Founders' All Day IPA. Definitely a keeper.
 * OG 1.037
 * FG 1.006
 * ABV 4.07%
+
+### Mar 18 2017
+* OG 1.033
+* FG 1.011
+* ABV 2.89%

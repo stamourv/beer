@@ -6,7 +6,7 @@ Based on [this article](http://byo.com/issues/item/1574-weissbier).
 
 * 3.6 lb malted wheat
 * 2.4 lb pilsen malt
-* 0.25 oz Tradition OR 1/3 oz St. Celeia Golding
+* 0.25 oz Tradition OR 1/3 oz St. Celeia Golding OR 0.25 oz EKG
 * Wyeast 3056 bavarian wheat
 
 ## Brewing
@@ -17,17 +17,10 @@ Based on [this article](http://byo.com/issues/item/1574-weissbier).
 * Batch sparge 15 @ 170-180
 
 ### Boil
-* 0.08 oz Tradition @ 60
-* 0.08 oz Tradition @ 20
+* 1/3 hops Tradition @ 60
+* 1/3 hops Tradition @ 20
 * Irish moss @ 20
-* 0.08 oz Tradition @ 10
-
-OR
-
-* 1/9 oz St. Celeia Golding @ 60
-* 1/9 oz St. Celeia Golding @ 20
-* Irish moss @ 20
-* 1/9 oz St. Celeia Golding @ 10
+* 1/3 hops Tradition @ 10
 
 ## Notes
 
@@ -41,6 +34,7 @@ One of my go-tos. Solid recipe with a good track record.
 * Turned out delicious! One of the best we've made.
 
 ### Aug 29th 2015
+* used St. Celeia
 * OG 1.058
 * FG 1.017
 * ABB 5.38%
@@ -52,3 +46,16 @@ One of my go-tos. Solid recipe with a good track record.
 * OG 1.052 (!)
 * FG 1.025 (but that was with priming sugar added in)
 * ABV 3.54%
+
+### Apr 8th 2017
+* Screwed up mash.
+    * Put grain in right away (distracted).
+    * Brought it up to 100, then rested 20 mins.
+    * Then tried to bring it to 142. Thermometer read ~125, but mash looked like
+      it was boiling. On testing, thermometer seemed to work...
+    * Mashed for 1hr at whatever temperature that was.
+* Had EKG in the freezer, so used that.
+* Forgot to start the yeast when we started. Wow. We're not on top on things.
+* OG 1.032
+* FG TODO
+* ABV TODO
