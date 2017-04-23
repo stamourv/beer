@@ -57,5 +57,5 @@ One of my go-tos. Solid recipe with a good track record.
 * Had EKG in the freezer, so used that.
 * Forgot to start the yeast when we started. Wow. We're not on top on things.
 * OG 1.032
-* FG TODO
-* ABV TODO
+* FG 1.005 (before priming sugar)
+* ABV 3.54%
