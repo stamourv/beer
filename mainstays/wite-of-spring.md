@@ -37,7 +37,7 @@ One of my go-tos. Solid recipe with a good track record.
 * used St. Celeia
 * OG 1.058
 * FG 1.017
-* ABB 5.38%
+* ABV 5.38%
 * A bit sweet? Good, but not as good as my memory of the first batch.
 
 ### Feb 28th 2016
