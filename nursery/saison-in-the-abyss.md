@@ -29,3 +29,9 @@ to mainstays.
 * Original recipe called for EKG or styrian goldings, but store was all
   out of both (and more). Worked fine with fuggle. Hops aren't the point
   here anyway.
+
+### May 21 2017
+* Store didn't have the 3711, so used 3724 belgian saison
+* OG 1.038
+* FG TODO
+* ABV TODO
