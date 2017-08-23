@@ -23,7 +23,7 @@ Other [interesting](http://beerandwinejournal.com/quickly-maturing-ale/)
 
 ## Notes
 
-The one time we tried it (see below), it didn't work out, thought no
+The one time we tried it (see below), it didn't work out, through no
 fault of the recipe. Probably worth trying again, if only to see whether
 the recipe itself is any good.
 
