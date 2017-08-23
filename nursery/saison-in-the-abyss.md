@@ -33,5 +33,6 @@ to mainstays.
 ### May 21 2017
 * Store didn't have the 3711, so used 3724 belgian saison
 * OG 1.038
-* FG TODO
-* ABV TODO
+* FG 1.006 (after priming sugar, though)
+* ABV 4.20%
+* doesn't taste as funky as before, and maybe a bit wimpy, but still good
