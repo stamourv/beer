@@ -23,10 +23,12 @@ Not a real wild ale, but still a sour, with a lambic bug mix.
 
 ## Notes
 
-In progress.
-
 ### Dec 3 2016
 * Used old (separate, most importantly) fermenter, to avoid
   cross-contamination.
 * OG: 1.042
 * Planning to bottle Jun-ish 2017.
+* on Jul 13th 2017, tried it. can taste raspberries, but tastes a bit "medical"
+  went and bottled 6 of them, and left the rest to age more. oops, forgot to take FG
+* Tried on Aug 6th, very nice and refreshing. Subtle taste of raspberries, but
+  just enough. Refreshing, but a slight bitter aftertaste.
