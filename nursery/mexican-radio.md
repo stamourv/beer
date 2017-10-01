@@ -28,3 +28,5 @@ Based on [this article](https://byo.com/bock/item/1564-vienna-lager-in-exile).
 * ABV 3.94%
 * forgot to do diacetyl rest before bottling, oops
 * starting lagering at 62F anyway, then drop 4F per day until 35F
+* Trying it: flavor was good, carbonation was uneven, and body was watery.
+  Refreshing.
