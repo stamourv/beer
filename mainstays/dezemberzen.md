@@ -32,3 +32,10 @@ Probably wouldn't attempt without decent temperature control, though.
   temp 4F/day until 35F. Lagered for 6+ weeks.
 * [This link](http://www.homebrewing.org/How-to-Make-Lager_ep_42-1.html)
   had useful info.
+
+### Oct 1 2017
+* No substitutions this time.
+* Coming on the heels of two disappointing batches (mexican radio, london calling).
+  So being extra careful. Extra cleaning on the spigot and fermenter, and extra
+  attention re aeration.
+* OG (forgot)
