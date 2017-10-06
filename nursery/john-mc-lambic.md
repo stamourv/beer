@@ -32,3 +32,4 @@ Not a real wild ale, but still a sour, with a lambic bug mix.
   went and bottled 6 of them, and left the rest to age more. oops, forgot to take FG
 * Tried on Aug 6th, very nice and refreshing. Subtle taste of raspberries, but
   just enough. Refreshing, but a slight bitter aftertaste.
+* on Oct 1st 2017, bottled 12 more.

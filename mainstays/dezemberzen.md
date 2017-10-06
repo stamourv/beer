@@ -38,4 +38,8 @@ Probably wouldn't attempt without decent temperature control, though.
 * Coming on the heels of two disappointing batches (mexican radio, london calling).
   So being extra careful. Extra cleaning on the spigot and fermenter, and extra
   attention re aeration.
+* But then screwed up by absent-mindedly putting the fermented in the cupboard,
+  instead of the lagerator. Fixed the mistake the next morning. Airlock was already
+  bubbling, so probably fine?
+* Started diacetyl rest on Oct 18th.
 * OG (forgot)
