@@ -47,3 +47,9 @@ like Founders' All Day IPA. Definitely a keeper.
 * OG 1.033
 * FG 1.011
 * ABV 2.89%
+
+### Oct 28 2017
+* dry hopped on Nov 12, bottled on Nov 19
+* OG 1.044
+* FG 1.009 (including priming sugar)
+* ABV 4.59%

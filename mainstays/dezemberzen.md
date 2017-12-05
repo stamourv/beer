@@ -43,3 +43,5 @@ Probably wouldn't attempt without decent temperature control, though.
   bubbling, so probably fine?
 * Started diacetyl rest on Oct 18th.
 * OG (forgot)
+* FG 1.016
+* ABV 3.54%

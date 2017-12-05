@@ -26,3 +26,7 @@ Based on [this recipe](http://byo.com/bock/item/2318-fuller%E2%80%99s-the-pride-
 * ABV 4.07
 * Trying it: off-flavor, maybe overcarbonated (did have high FG). Overly
   bitter. Not a success. We still can't do bitters.
+* By Dec 2nd was really overcarbonated and tasted bitter and metallic.
+  Definitely not good. Could be mild gusher bug infection. Subsequent
+  batches were fine though.
+  Ended up dumping what was left; bangs and sprays. Definitely infected.

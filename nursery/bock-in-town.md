@@ -30,3 +30,7 @@ general matter of principle.
 * OG 1.032
 * FG 0.997
 * ABV 4.59%
+
+### Dec 2 2017
+* Tried it again. Same recipe, but with out "new" MO.
+* OG: 1.038
