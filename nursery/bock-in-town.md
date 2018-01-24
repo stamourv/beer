@@ -33,4 +33,8 @@ general matter of principle.
 
 ### Dec 2 2017
 * Tried it again. Same recipe, but with out "new" MO.
+* Started diacetyl rest on Dec 13th (raised temp to 62F).
+* Bottled on Dec 16th
 * OG: 1.038
+* FG: 1.014
+* ABV: 3.15%

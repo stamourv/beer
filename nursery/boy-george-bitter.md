@@ -35,3 +35,10 @@ the recipe itself is any good.
   batch never really had a chance. Drank some and dumped some.
   Drinkable, but not very good, but also not representative of the
   recipe.
+
+### Dec 16 2017
+* Put isinglass in on Jan 14th. A bit late. Plan to bottle in a couple days.
+* Bottled Jan 20th, was really cloudy. Clumpy, even.
+* OG 1.030
+* FG 1.010 (but after priming sugar)
+* ABV 2.63%
