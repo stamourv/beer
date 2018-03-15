@@ -51,3 +51,15 @@ One of our best. Each batch ends up different, but always great.
 * OG 1.063
 * FG 1.004
 * ABV 6.43%
+
+### Mar 10 2018
+* Used 24 oz of maple syrup
+* We did screw up the sparge some, by squeezing the bag into sparge water
+  before sparging, so the sparge water started already sweet...
+* OG 1.062 -- a bit low, especially considering amount of syrup, but see above
+  was lower at first, then stirred the wort (to mix maple syrup), then got
+  higher so may actually be higher still. Volume was high, too, 3+ gal...
+  Was fiercely bubbling the day after, though.
+* Mar 11th, airlock was bubbling a lot. Then overnight, overflowed. On 12th,
+  lots of greenish paste (thick, solid) to clean up. Probably just yeast...
+  But that's one that we may want to do in smaller volumes.

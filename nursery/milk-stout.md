@@ -23,4 +23,9 @@ Based on [this article](https://www.homebrewersassociation.org/homebrew-recipe/l
 
 ## Notes
 ### Jan 20 2018
+* Bottled Feb 18. FG was high, but not a case of bottling too early...
+  Recipe's FG was high too, but not as high as ours...
+  Turns out yeast can't digest lactose. That explains it.
 * OG 1.060
+* FG 1.032 (before priming sugar)
+* ABV 3.68%
