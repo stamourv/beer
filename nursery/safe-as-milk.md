@@ -1,4 +1,4 @@
-Milk Stout -- TODO needs a better name
+# Safe as Milk (Milk Stout)
 
 Based on [this article](https://www.homebrewersassociation.org/homebrew-recipe/left-hand-milk-stout-clone/).
 
