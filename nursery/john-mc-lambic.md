@@ -35,3 +35,5 @@ Not a real wild ale, but still a sour, with a lambic bug mix.
 * On Oct 1st 2017, bottled 12 more. Tried on Nov 19, basically undrikable.
   Also, flat; maybe forgot to add priming sugar to the bottles.
   After a few days, got a little better, maybe? Still not a success.
+* Bottled the rest in Apr 2018. But I think the bottles got thrown out during the
+  trippel burst bottles incident.

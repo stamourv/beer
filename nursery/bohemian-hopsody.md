@@ -26,6 +26,8 @@
 
 Inspired by [this recipe](http://web.archive.org/web/20130421034846/http://beerdujour.com/Recipes/Jamil/JamilsBohemianPilsner.htm).
 
+Turned out really well when we first made it. Pleased with it.
+
 Interesting links:
 * [Style profile](http://byo.com/stories/issue/item/1929-bohemian-pilsener-style-profile)
 * [Has discussion of water](http://byo.com/stories/issue/item/2283-czech-style-pilsner)
@@ -39,3 +41,11 @@ Interesting links:
 * OG 1.052 (in style)
 * FG 1.022 (a bit high, but not overly so for bohemian (upper end is 1.017))
 * ABV 3.94%
+
+### Apr 14th 2017
+* did it with the Wyeast 2278
+* started diacetyl rest on May 1st
+* bottled on May 5th
+* OG 1.054
+* FG 1.019 (after priming sugar)
+* ABV 4.59%

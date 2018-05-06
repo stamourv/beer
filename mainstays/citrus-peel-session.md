@@ -53,3 +53,11 @@ like Founders' All Day IPA. Definitely a keeper.
 * OG 1.044
 * FG 1.009 (including priming sugar)
 * ABV 4.59%
+
+### May 5 2018
+* Fresh from burst bottles, so was very careful.
+  Tried not using wort chiller, just in case (may get dirty).
+* Forgot the flameout hop addition until maybe 1hr later, when wort
+  was mostly chilled. Oops. Stayed there ~30mins, then strained as I
+  put in fermented.
+* OG 1.035

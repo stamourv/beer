@@ -63,3 +63,12 @@ One of our best. Each batch ends up different, but always great.
 * Mar 11th, airlock was bubbling a lot. Then overnight, overflowed. On 12th,
   lots of greenish paste (thick, solid) to clean up. Probably just yeast...
   But that's one that we may want to do in smaller volumes.
+* FG 1.013 (after priming sugar, though)
+* ABV 6.43%
+* Apr 30th, 2 weeks after bottling, 2 bottles burst overnight. Shattered.
+  Put in big plastic bins, to contain further explosions.
+  Then 3 days later, another bottle burst.
+  At some point, 2 more bottles burst. In the other bin.
+  Deemed the batch was not worth saving. Taped the bins shut, then threw
+  the whole bins away. RIP
+* Never got to actually try it.
