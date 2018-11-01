@@ -59,5 +59,8 @@ like Founders' All Day IPA. Definitely a keeper.
   Tried not using wort chiller, just in case (may get dirty).
 * Forgot the flameout hop addition until maybe 1hr later, when wort
   was mostly chilled. Oops. Stayed there ~30mins, then strained as I
-  put in fermented.
+  put in fermenter.
+* Dry hopped on May 19th.
 * OG 1.035
+* FG 1.008 (before priming sugar)
+* ABV 3.54%
